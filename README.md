@@ -3,7 +3,6 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<img align="right" alt="Coding" width="700" src=""C:\Users\Vamshi\Desktop\GIF.gif""
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
