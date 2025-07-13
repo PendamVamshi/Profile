@@ -7,38 +7,49 @@
 ### 🧰 Languages and Tools:
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+  <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- Java -->
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Operating System" width="40" height="40"/>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/data-structure.png" alt="Data Structures" width="40" height="40"/>
+  <!-- Data Structures (using tree structure from Devicon) -->
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Data Structures" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-database-computer-programming-flaticons-lineal-color-flat-icons.png" alt="DBMS" width="40" height="40"/>
+  <!-- DBMS -->
+  <a href="https://en.wikipedia.org/wiki/Database" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="DBMS" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/web-design.png" alt="Web Technology" width="40" height="40"/>
+  <!-- Web Technology -->
+  <a href="https://developer.mozilla.org/en-US/docs/Learn" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Web Technology" width="40" height="40"/>
   </a>
 </p>
 
@@ -49,4 +60,3 @@
 - 👨‍💻 Currently working on web development and system-based projects.
 - 🔍 Interested in Data Structures, Web Technologies, and Operating Systems.
 - 📚 Always eager to learn new technologies and collaborate on exciting projects.
-
