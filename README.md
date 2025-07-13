@@ -45,27 +45,8 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 I'm a Computer Science graduate with a strong foundation in programming.
-- 👨‍💻 Currently working on full-stack web development and system-based projects.
+- 🎓 I'm a Computer Science graduate with foundation in programming.
+- 👨‍💻 Currently working on web development and system-based projects.
 - 🔍 Interested in Data Structures, Web Technologies, and Operating Systems.
 - 📚 Always eager to learn new technologies and collaborate on exciting projects.
-- 🧠 Lifelong learner | 💡 Innovation enthusiast
 
----
-
-### 📫 How to reach me:
-- 📧 Email: **yourmail@example.com**
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com)
-- 🌐 Portfolio: [your-portfolio-link](https://yourportfolio.com)
-
----
-
-### 📊 GitHub Stats:
-![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-Replace placeholders like `yourmail@example.com`, `your-github-username`, `your-portfolio-link`, and LinkedIn URL with your actual info.
-
-Let me know if you'd like to add sections for **projects**, **certifications**, or **achievements** too!
