@@ -39,10 +39,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <!-- Data Structures (using tree structure from Devicon) -->
-  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Data Structures" width="40" height="40"/>
-  </a>
   <!-- DBMS -->
   <a href="https://en.wikipedia.org/wiki/Database" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="DBMS" width="40" height="40"/>
